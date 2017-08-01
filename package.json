@@ -1,0 +1,28 @@
+{
+  "name": "koa-async-rpc",
+  "version": "1.0.0",
+  "description": "koa2 async rpc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chenshenhai/koa-async-rpc.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chenshenhai/koa-async-rpc/issues"
+  },
+  "homepage": "https://github.com/chenshenhai/koa-async-rpc#readme",
+  "dependencies": {
+    "async-rpc": "^0.0.1",
+    "babel-eslint": "^7.2.3",
+    "eslint": "^4.3.0",
+    "husky": "^0.14.3"
+  },
+  "devDependencies": {
+    "koa": "^2.3.0"
+  }
+}
