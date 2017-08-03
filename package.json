@@ -1,6 +1,6 @@
 {
   "name": "koa-async-rpc",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "koa2 async rpc",
   "main": "index.js",
   "scripts": {
