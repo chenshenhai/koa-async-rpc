@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/chenshenhai/koa-async-rpc.git"
   },
-  "author": "",
+  "author": "chenshenhai",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/chenshenhai/koa-async-rpc/issues"
